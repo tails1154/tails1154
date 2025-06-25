@@ -1,3 +1,3 @@
-- Hi, I’m @tails1154
+- Heya! I’m @tails1154
 - I made short lived coding projects
 - I code in python and node.js
